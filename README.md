@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nanda</h1>
 
-<!--
-**Nandamidathana/Nandamidathana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 BTech Student | 💻 AI/ML Learner | 🚀 Future Developer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+- 🌱 I’m currently learning AI/ML
+- 💡 Interested in real-world projects
+- 🎯 Goal: Become a skilled developer
+
+---
+
+### 🚀 Skills
+- Python 🐍
+- HTML & CSS 🌐
+- Git & GitHub 🔧
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+### 🔗 Connect with me
+- LinkedIn: (your link)
