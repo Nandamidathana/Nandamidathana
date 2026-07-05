@@ -26,4 +26,6 @@
 ---
 
 ### 🔗 Connect with me
-- LinkedIn: (your link)
+- LinkedIn: www.linkedin.com/in/muktananda-midathana-062352317
+- 
+
