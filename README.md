@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nanda</h1>
+<h1 align="center">Hi 👋, I'm Nanda Midathana</h1>
 
 <p align="center">
 🎓 BTech Student | 💻 AI/ML Learner | 🚀 Future Developer
@@ -18,9 +18,14 @@
 ---
 
 ### 🚀 Skills
-- Python 🐍
-- HTML & CSS 🌐
-- Git & GitHub 🔧
+
+- 💻 **Languages:** Java, Python, JavaScript
+- 🌐 **Web Development:** HTML, CSS, React,
+- 🗄️ **Database:** SQLITE, SQL
+- 🧠 **CS Fundamentals:** DSA, OOP, DBMS
+- 🤖 **AI/ML:** AI & ML Fundamentals
+- ☁️ **Deployment & Cloud:** Vercel, Render, Railway
+- 🛠️ **Developer Tools:** Git, GitHub, VS Code, Antigravity
 
 ---
 
@@ -31,5 +36,5 @@
 
 ### 🔗 Connect with me
 - LinkedIn: www.linkedin.com/in/muktananda-midathana-062352317
-- 
+- portifolio:http://utility-gravity-476508-r6.web.app/
 
