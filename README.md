@@ -7,10 +7,14 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 I’m currently learning AI/ML
-- 💡 Interested in real-world projects
-- 🎯 Goal: Become a skilled developer
 
+
+- 🎓 B.Tech CSE student passionate about **Software Development & AI/ML**
+- 💻 Currently strengthening my skills in **Java, Python, DSA, Web Development & DBMS**
+- 🤖 Exploring **AI/ML, Cloud Computing & DevOps**
+- 🚀 Building practical projects to solve real-world problems
+- 📚 Committed to continuous learning and improving my problem-solving skills
+- 🎯 Aspiring Software Developer focused on building scalable and impactful solutions
 ---
 
 ### 🚀 Skills
